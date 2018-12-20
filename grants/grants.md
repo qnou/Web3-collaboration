@@ -2,7 +2,7 @@
 
 As part of our commitment to promoting the Web3 ecosystem, we are providing a comprehensive grants initiative. This means that successful applicants will be able to receive funding for their efforts to improve the Web3 ecosystem.
 
-[Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform)
+[Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSfMfjiRmDQDRk-4OhNASM6BAKii7rz_B1jWtbCPkUh6N7M2ww/viewform){:target="_blank"}
 
 Primarily, we are interested in grants that have a maximum lifespan of 6 months or less. It is possible that further funding can occur, but we want the projects to be smaller in nature and hence a more manageable risk. With Polkadot coming online in Q3 2019 (target timeframe), then we would like to have many projects funded and delivered in advance.
 
